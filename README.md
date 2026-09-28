@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://raw.githubusercontent.com/joaopedro-fc/joaopedro-fc/output/github-snake.svg)
 <!--
 **joaopedro-fc/Joaopedro-fc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
